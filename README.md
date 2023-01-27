@@ -1,0 +1,2 @@
+# wzp
+Warsztat z programowania
