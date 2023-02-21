@@ -1,6 +1,5 @@
 # Warsztat z programowania
 
-Tak jak zapowiedziałam, w piątek 03.02.23 pojawią się przykładowe odpowiedzi do "zadań do samodzielnego wykonania"
 ## Kontakt:
 
 Małgorzata Trąbka
